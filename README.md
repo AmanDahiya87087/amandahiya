@@ -1,0 +1,2 @@
+# amandahiya
+my static website
